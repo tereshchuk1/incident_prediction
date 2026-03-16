@@ -1,4 +1,3 @@
-# incident_prediction
 # Factory Sensor Incident Prediction
 
 ## Task
